@@ -48,9 +48,9 @@ Conforme implementado no código, o mapa da cidade foi modelado como um grafo n�
 
 O diagrama a seguir foi gerado pelo código e ilustra o modelo do grafo utilizado, destacando a rota mais curta encontrada do "Restaurante" ao "Ponto H".
 
-*(Instrução: Adicione aqui o print do gráfico gerado pelo script `route_optimization.py`)*
 
-![Diagrama do Grafo](diagrama_grafo.png)
+<img width="1220" height="842" alt="image" src="https://github.com/user-attachments/assets/ee862a82-66e1-4faf-adf4-9890f0627065" />
+
 
 ## 4. Análise dos Resultados e Limitações
 
